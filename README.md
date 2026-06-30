@@ -1,6 +1,6 @@
 # Hi, I'm Dolikananda Pichika 👋
 
-### Electronics & Communication Engineering Student | Embedded Systems & Firmware Enthusiast
+### Electrical & Electronics Engineering Student | Embedded Systems & Firmware Enthusiast
 
 I am an Electronics and Communication Engineering student passionate about embedded systems and firmware development. My experience comes from building real-world engineering projects involving microcontrollers, embedded signal processing, sensor interfacing, and intelligent embedded applications.
 
