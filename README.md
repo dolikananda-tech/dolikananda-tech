@@ -2,7 +2,7 @@
 
 ### Electrical & Electronics Engineering Student | Embedded Systems & Firmware Enthusiast
 
-I am an Electronics and Communication Engineering student passionate about embedded systems and firmware development. My experience comes from building real-world engineering projects involving microcontrollers, embedded signal processing, sensor interfacing, and intelligent embedded applications.
+I am an Electrical & Electronics Engineering student passionate about embedded systems and firmware development. My experience comes from building real-world engineering projects involving microcontrollers, embedded signal processing, sensor interfacing, and intelligent embedded applications.
 
 I enjoy understanding how hardware and software interact at the system level and aspire to build reliable low-level software for embedded platforms and semiconductor technologies.
 
